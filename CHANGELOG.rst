@@ -2,8 +2,8 @@
 Changelog for package gscam
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.0 (2017-05-04)
+------------------
 * Merge remote-tracking branch 'dhood/master'
 * Merge remote-tracking branch 'blutack/master'
 * gscam_nodelet.h: include scoped_ptr.hpp to compile with boost 1.57
